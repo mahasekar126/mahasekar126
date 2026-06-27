@@ -1,148 +1,107 @@
-<div align="center">
+<!--
+  README STRUCTURE NOTE:
+  Every section below is included because it answers a specific recruiter
+  question in under 10 seconds. Sections that didn't pass that test
+  (motivational quotes, decorative banners, profile-view counters,
+  streak badges) were intentionally left out.
+-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=180&section=header&text=Hi,%20I'm%20Mahalakshmi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+# Mahalakshmi S
 
-<p>📊 &nbsp;<b>Turning messy data into clean answers</b></p>
+**Data Science Student (Integrated M.Tech) · VIT Vellore**
 
-<p>
-🎓 Integrated M.Tech in Data Science @ VIT Vellore &nbsp;&nbsp;·&nbsp;&nbsp;
-🚀 Open to Data Science Internships
-</p>
+Interested in Data Science, Data Analytics, Machine Learning, and Data Engineering.
+Currently building projects in Python, SQL, and ML — open to Data Science internship roles.
 
-<img src="https://komarev.com/ghpvc/?username=mahasekar126&color=8D58BF&style=flat-square&label=Profile+Views"/>
+📧 [mahasekar126@gmail.com](mailto:mahasekar126@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/mahalakshmi-s-75665728b/)
 
-<br/><br/>
+<!--
+  WHY THIS SECTION EXISTS: This is the entire "who is this person and
+  what do they want" answer. A recruiter should never have to scroll
+  to find this — it's the first thing in the file, no banner above it.
+-->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:8D58BF&height=2&section=header&width=100%25" width="100%"/>
+---
 
-</div>
+## Tech Stack
 
-<br/>
+<!--
+  WHY: Recruiters scan for keywords (ATS-style, even when reading manually).
+  This uses one consistent badge style — no mixed icon systems — so it
+  scans as a single clean block, not decoration.
+-->
 
-### 🛠️ &nbsp;Tech Stack
+**Languages:** Python · SQL · Java · C · C++
 
-<div align="center">
+**Data Science:** Pandas · NumPy · Scikit-learn · Matplotlib · Statistics · EDA · Feature Engineering
 
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**Tools:** Git · GitHub · Flask · MySQL · Tableau · Excel · Jupyter Notebook
 
-**Data Science & ML**
-<br/>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+**Blockchain:** Solidity · Hardhat · MetaMask · Web3 · Sepolia
 
-**Tools & Frameworks**
-<br/>
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+---
 
-**Blockchain**
-<br/>
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+## Featured Projects
 
-</div>
+<!--
+  WHY: This is the section that actually decides interview/no-interview.
+  Kept as a table — fastest format to scan. Only projects with a real
+  GitHub link are clickable; the other two are flagged below the table
+  since they currently aren't hosted on GitHub (worth fixing before
+  applying — an unlinked project name reads as unverifiable).
+-->
 
-<br/>
+| Project | Description | Tech |
+|---|---|---|
+| [JusticeChain](https://github.com/mahasekar126/justice-chain-) | Blockchain-based legal record system | Solidity, Hardhat, Web3, MetaMask, Sepolia |
+| [StreamNest](https://github.com/mahasekar126/streamnest) | Netflix-style video streaming platform | Flask, SQL, Cloudinary, Render |
+| [Global Superstore Sales Intelligence](https://github.com/mahasekar126/Global-Superstore-Sales-Intelligence) | Tableau dashboard for global retail sales analysis | Tableau, EDA |
+| Smart Bike Safety & Alert System ⚠️ *not yet on GitHub* | IoT-based rider safety system with accident detection and live dashboard | IoT, Sensors |
+| Intelligent Case Prioritization System ⚠️ *not yet on GitHub* | Fuzzy logic engine for legal case prioritization | Python, SQL, Fuzzy Logic |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:8D58BF&height=2&section=header&width=100%25" width="100%"/>
+---
 
-<br/>
+## Certifications
 
-### 📌 &nbsp;Featured Projects
+<!--
+  WHY: Certifications are a fast trust signal, but only worth a 2-line
+  list — not full descriptions. A recruiter recognizes "Deloitte" and
+  "J.P. Morgan" instantly; that recognition is the entire value of
+  this section.
+-->
 
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech</th>
-</tr>
-<tr>
-<td>📈 <b><a href="https://github.com/mahasekar126/Global-Superstore-Sales-Intelligence">Global Superstore Sales Intelligence</a></b></td>
-<td>Interactive Tableau dashboard analyzing global retail sales, profit & regional trends</td>
-<td><code>Tableau</code> <code>EDA</code></td>
-</tr>
-<tr>
-<td>⚖️ <b><a href="https://github.com/mahasekar126/justice-chain-">JusticeChain</a></b></td>
-<td>Decentralized legal record management system on Ethereum</td>
-<td><code>Solidity</code> <code>Web3</code> <code>Hardhat</code></td>
-</tr>
-<tr>
-<td>🎬 <b><a href="https://github.com/mahasekar126/streamnest">StreamNest</a></b></td>
-<td>Netflix-style video streaming platform with auth & cloud storage</td>
-<td><code>Flask</code> <code>SQL</code> <code>Cloudinary</code></td>
-</tr>
-<tr>
-<td>🚲 <b>Smart Bike Safety & Alert System</b></td>
-<td>Real-time rider safety monitoring — helmet & accident detection</td>
-<td><code>IoT</code> <code>Sensors</code></td>
-</tr>
-<tr>
-<td>⚡ <b>Intelligent Case Prioritization System</b></td>
-<td>Fuzzy logic engine ranking legal case urgency</td>
-<td><code>Python</code> <code>SQL</code> <code>Fuzzy Logic</code></td>
-</tr>
-</table>
+- Deloitte Australia — Data Analytics Job Simulation
+- J.P. Morgan — Quantitative Research Virtual Experience
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:8D58BF&height=2&section=header&width=100%25" width="100%"/>
+## Currently Learning
 
-<br/>
+<!--
+  WHY: Signals active growth without overclaiming skills not yet learned.
+  Kept to one line — this is a "currently doing" status, not a roadmap.
+-->
 
-### 📚 &nbsp;Currently Learning
+Advanced SQL → Next: Power BI, Generative AI, Prompt Engineering, RAG
 
-Advanced SQL &nbsp;**→ Next:**&nbsp; Power BI · Generative AI
+---
 
-<br/>
+## GitHub Activity
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:8D58BF&height=2&section=header&width=100%25" width="100%"/>
+<!--
+  WHY KEPT: A compact stats card adds a small, real signal (active repo
+  use) without taking up much space.
+  WHY THE STREAK BADGE WAS CUT: a 1-day streak actively undercuts the
+  profile rather than supporting it — removed until that number is
+  actually worth showing.
+-->
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=mahasekar126&show_icons=true&theme=default&hide_border=true&hide_title=true" height="150"/>
 
-### 📊 &nbsp;GitHub Stats
+---
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mahasekar126&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8D58BF&icon_color=8D58BF&text_color=c9d1d9"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mahasekar126&theme=radical&hide_border=true&background=0D1117&ring=8D58BF&fire=8D58BF&currStreakLabel=8D58BF"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahasekar126&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8D58BF&text_color=c9d1d9"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:8D58BF&height=2&section=header&width=100%25" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-### 📫 &nbsp;Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahasekar126@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahalakshmi-s-75665728b/)
-
-<br/><br/>
-
-<i>⭐ Learning one concept at a time, building one project at a time.</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=100&section=footer" width="100%"/>
-
-</div>
+<!--
+  WHY NOTHING FOLLOWS: contact info is already at the top, where a
+  recruiter sees it first. Repeating it at the bottom only adds scroll
+  with no new information.
+-->
