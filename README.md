@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
-  <img src="header-light.svg" width="100%" alt="Mahalakshmi S — Data Science and Machine Learning">
+  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
+  <img src="hero-light.svg" width="100%" alt="Mahalakshmi S — Data Science and Machine Learning">
 </picture>
 
 <br/>
@@ -9,85 +9,70 @@ I build end-to-end data and software systems — from a Tableau sales dashboard 
 
 <br/>
 
-## Featured Projects
-
-| Project | Impact | Tech | Link |
-|:--|:--|:--|:--:|
-| **JusticeChain** | Restricts legal record access by role (police, lawyers, judges, citizens) with every change kept on an immutable, publicly auditable chain | `Solidity` `Hardhat` `Web3` | [Repo →](https://github.com/mahasekar126/justice-chain-) |
-| **StreamNest** | Netflix-style streaming platform with real authentication and cloud-hosted video delivery — not a static front-end mockup | `Flask` `SQL` `Cloudinary` | [Repo →](https://github.com/mahasekar126/streamnest) |
-| **Global Superstore Sales Intelligence** | Tableau dashboard surfacing where global retail profit is won or lost, by region and category | `Tableau` `EDA` | [Repo →](https://github.com/mahasekar126/Global-Superstore-Sales-Intelligence) |
-| **Smart Bike Safety & Alert System** | IoT prototype detecting missing-helmet and accident conditions, pushing automated alerts in real time | `IoT` `Sensors` | *Private — ask to view* |
-| **Intelligent Case Prioritization System** | Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simple first-in-first-out order | `Python` `Fuzzy Logic` | *Private — ask to view* |
+## Projects
 
 <br/>
 
-## Skills
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-Python · SQL · Java · C · C++
-
-**Data Science**
-Pandas · NumPy · Scikit-learn · Matplotlib · EDA · Feature Engineering
-
-**Backend**
-Flask · MySQL
-
-</td>
-<td valign="top" width="50%">
-
-**Tools**
-Git · GitHub · Tableau · Excel · Jupyter
-
-**Blockchain**
-Solidity · Hardhat · Web3 · MetaMask · Sepolia
-
-**Cloud**
-Render · Cloudinary
-
-</td>
-</tr>
-</table>
+**JusticeChain**
+Restricts legal record access by role — police, lawyers, judges, citizens — with every change kept on an immutable, publicly auditable chain.
+`Solidity` `Hardhat` `Web3` → [View repository](https://github.com/mahasekar126/justice-chain-)
 
 <br/>
 
-## Certifications
-
-<table>
-<tr>
-<td width="50%">
-
-**Deloitte Australia**
-Data Analytics Job Simulation
-
-</td>
-<td width="50%">
-
-**J.P. Morgan**
-Quantitative Research Virtual Experience
-
-</td>
-</tr>
-</table>
+**StreamNest**
+Netflix-style streaming platform with real authentication and cloud-hosted video delivery — not a static front-end mockup.
+`Flask` `SQL` `Cloudinary` → [View repository](https://github.com/mahasekar126/streamnest)
 
 <br/>
 
-## Current Focus
+**Global Superstore Sales Intelligence**
+Tableau dashboard surfacing where global retail profit is won or lost, by region and category.
+`Tableau` `EDA` → [View repository](https://github.com/mahasekar126/Global-Superstore-Sales-Intelligence)
 
-| Status | Topic |
-|:--|:--|
-| Learning now | Advanced SQL |
-| Next up | Power BI · Generative AI · Prompt Engineering · RAG |
+<br/>
 
+**Smart Bike Safety & Alert System**
+IoT prototype detecting missing-helmet and accident conditions, pushing automated alerts in real time.
+`IoT` `Sensors` → *Private, ask to view*
+
+<br/>
+
+**Intelligent Case Prioritization System**
+Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simple first-in-first-out order.
+`Python` `Fuzzy Logic` → *Private, ask to view*
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Skills-0F6E56?style=flat-square" alt="Skills"/>
+
+**Languages** Python · SQL · Java · C · C++
+**Data Science** Pandas · NumPy · Scikit-learn · Matplotlib · EDA · Feature Engineering
+**Backend** Flask · MySQL
+**Tools** Git · GitHub · Tableau · Excel · Jupyter
+**Blockchain** Solidity · Hardhat · Web3 · MetaMask · Sepolia
+**Cloud** Render · Cloudinary
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Certifications-0F6E56?style=flat-square" alt="Certifications"/>
+
+Deloitte Australia — Data Analytics Job Simulation · J.P. Morgan — Quantitative Research Virtual Experience
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Current_Focus-0F6E56?style=flat-square" alt="Current Focus"/>
+
+Learning now: **Advanced SQL** &nbsp;→&nbsp; Next: Power BI · Generative AI · Prompt Engineering · RAG
+
+<br/>
 <br/>
 
 <div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=mahasekar126&show_icons=true&theme=transparent&hide_border=true&title_color=0F6E56&icon_color=0F6E56&text_color=586069" height="150"/>
 
-📧 [Email](mailto:mahasekar126@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/mahalakshmi-s-75665728b/) &nbsp;·&nbsp; 🧑‍💻 [GitHub](https://github.com/mahasekar126)
+<br/>
+
+[Email](mailto:mahasekar126@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mahalakshmi-s-75665728b/) &nbsp;·&nbsp; [GitHub](https://github.com/mahasekar126)
 
 </div>
