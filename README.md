@@ -1,107 +1,93 @@
-<!--
-  README STRUCTURE NOTE:
-  Every section below is included because it answers a specific recruiter
-  question in under 10 seconds. Sections that didn't pass that test
-  (motivational quotes, decorative banners, profile-view counters,
-  streak badges) were intentionally left out.
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <img src="header-light.svg" width="100%" alt="Mahalakshmi S — Data Science and Machine Learning">
+</picture>
 
-# Mahalakshmi S
+<br/>
 
-**Data Science Student (Integrated M.Tech) · VIT Vellore**
+I build end-to-end data and software systems — from a Tableau sales dashboard to a blockchain-based legal records platform — rather than isolated tutorial exercises.
 
-Interested in Data Science, Data Analytics, Machine Learning, and Data Engineering.
-Currently building projects in Python, SQL, and ML — open to Data Science internship roles.
-
-📧 [mahasekar126@gmail.com](mailto:mahasekar126@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/mahalakshmi-s-75665728b/)
-
-<!--
-  WHY THIS SECTION EXISTS: This is the entire "who is this person and
-  what do they want" answer. A recruiter should never have to scroll
-  to find this — it's the first thing in the file, no banner above it.
--->
-
----
-
-## Tech Stack
-
-<!--
-  WHY: Recruiters scan for keywords (ATS-style, even when reading manually).
-  This uses one consistent badge style — no mixed icon systems — so it
-  scans as a single clean block, not decoration.
--->
-
-**Languages:** Python · SQL · Java · C · C++
-
-**Data Science:** Pandas · NumPy · Scikit-learn · Matplotlib · Statistics · EDA · Feature Engineering
-
-**Tools:** Git · GitHub · Flask · MySQL · Tableau · Excel · Jupyter Notebook
-
-**Blockchain:** Solidity · Hardhat · MetaMask · Web3 · Sepolia
-
----
+<br/>
 
 ## Featured Projects
 
-<!--
-  WHY: This is the section that actually decides interview/no-interview.
-  Kept as a table — fastest format to scan. Only projects with a real
-  GitHub link are clickable; the other two are flagged below the table
-  since they currently aren't hosted on GitHub (worth fixing before
-  applying — an unlinked project name reads as unverifiable).
--->
+| Project | Impact | Tech | Link |
+|:--|:--|:--|:--:|
+| **JusticeChain** | Restricts legal record access by role (police, lawyers, judges, citizens) with every change kept on an immutable, publicly auditable chain | `Solidity` `Hardhat` `Web3` | [Repo →](https://github.com/mahasekar126/justice-chain-) |
+| **StreamNest** | Netflix-style streaming platform with real authentication and cloud-hosted video delivery — not a static front-end mockup | `Flask` `SQL` `Cloudinary` | [Repo →](https://github.com/mahasekar126/streamnest) |
+| **Global Superstore Sales Intelligence** | Tableau dashboard surfacing where global retail profit is won or lost, by region and category | `Tableau` `EDA` | [Repo →](https://github.com/mahasekar126/Global-Superstore-Sales-Intelligence) |
+| **Smart Bike Safety & Alert System** | IoT prototype detecting missing-helmet and accident conditions, pushing automated alerts in real time | `IoT` `Sensors` | *Private — ask to view* |
+| **Intelligent Case Prioritization System** | Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simple first-in-first-out order | `Python` `Fuzzy Logic` | *Private — ask to view* |
 
-| Project | Description | Tech |
-|---|---|---|
-| [JusticeChain](https://github.com/mahasekar126/justice-chain-) | Blockchain-based legal record system | Solidity, Hardhat, Web3, MetaMask, Sepolia |
-| [StreamNest](https://github.com/mahasekar126/streamnest) | Netflix-style video streaming platform | Flask, SQL, Cloudinary, Render |
-| [Global Superstore Sales Intelligence](https://github.com/mahasekar126/Global-Superstore-Sales-Intelligence) | Tableau dashboard for global retail sales analysis | Tableau, EDA |
-| Smart Bike Safety & Alert System ⚠️ *not yet on GitHub* | IoT-based rider safety system with accident detection and live dashboard | IoT, Sensors |
-| Intelligent Case Prioritization System ⚠️ *not yet on GitHub* | Fuzzy logic engine for legal case prioritization | Python, SQL, Fuzzy Logic |
+<br/>
 
----
+## Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+Python · SQL · Java · C · C++
+
+**Data Science**
+Pandas · NumPy · Scikit-learn · Matplotlib · EDA · Feature Engineering
+
+**Backend**
+Flask · MySQL
+
+</td>
+<td valign="top" width="50%">
+
+**Tools**
+Git · GitHub · Tableau · Excel · Jupyter
+
+**Blockchain**
+Solidity · Hardhat · Web3 · MetaMask · Sepolia
+
+**Cloud**
+Render · Cloudinary
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Certifications
 
-<!--
-  WHY: Certifications are a fast trust signal, but only worth a 2-line
-  list — not full descriptions. A recruiter recognizes "Deloitte" and
-  "J.P. Morgan" instantly; that recognition is the entire value of
-  this section.
--->
+<table>
+<tr>
+<td width="50%">
 
-- Deloitte Australia — Data Analytics Job Simulation
-- J.P. Morgan — Quantitative Research Virtual Experience
+**Deloitte Australia**
+Data Analytics Job Simulation
 
----
+</td>
+<td width="50%">
 
-## Currently Learning
+**J.P. Morgan**
+Quantitative Research Virtual Experience
 
-<!--
-  WHY: Signals active growth without overclaiming skills not yet learned.
-  Kept to one line — this is a "currently doing" status, not a roadmap.
--->
+</td>
+</tr>
+</table>
 
-Advanced SQL → Next: Power BI, Generative AI, Prompt Engineering, RAG
+<br/>
 
----
+## Current Focus
 
-## GitHub Activity
+| Status | Topic |
+|:--|:--|
+| Learning now | Advanced SQL |
+| Next up | Power BI · Generative AI · Prompt Engineering · RAG |
 
-<!--
-  WHY KEPT: A compact stats card adds a small, real signal (active repo
-  use) without taking up much space.
-  WHY THE STREAK BADGE WAS CUT: a 1-day streak actively undercuts the
-  profile rather than supporting it — removed until that number is
-  actually worth showing.
--->
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahasekar126&show_icons=true&theme=default&hide_border=true&hide_title=true" height="150"/>
+<div align="center">
 
 ---
 
-<!--
-  WHY NOTHING FOLLOWS: contact info is already at the top, where a
-  recruiter sees it first. Repeating it at the bottom only adds scroll
-  with no new information.
--->
+📧 [Email](mailto:mahasekar126@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/mahalakshmi-s-75665728b/) &nbsp;·&nbsp; 🧑‍💻 [GitHub](https://github.com/mahasekar126)
+
+</div>
