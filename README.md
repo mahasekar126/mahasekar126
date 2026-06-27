@@ -25,25 +25,34 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,mysql,java,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
+&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Data Science & ML**
 <br/>
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-<br/>
-<sub>Pandas · NumPy · Scikit-learn · Matplotlib</sub>
+&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
 **Tools & Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=flask,mysql,git,github&theme=dark" />
-<br/>
-<sub>Streamlit · Tableau · Excel</sub>
+<img src="https://skillicons.dev/icons?i=flask,git,github&theme=dark" />
+&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **Blockchain**
 <br/>
-<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" />
-<br/>
-<sub>Hardhat · MetaMask · Web3.js</sub>
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
+&nbsp;
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
 </div>
 
