@@ -1,0 +1,14 @@
+<svg width="100%" height="200" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mahalakshmi S — Data Science and Machine Learning header banner">
+
+  <text x="340" y="62" text-anchor="middle" font-size="34" font-weight="600" fill="#1a1a1a" font-family="Helvetica, Arial, sans-serif">Mahalakshmi S</text>
+
+  <text x="340" y="94" text-anchor="middle" font-size="15" fill="#57606a" font-family="Helvetica, Arial, sans-serif">Data Science &amp; Machine Learning — building applied projects across analytics, web, and blockchain</text>
+
+  <line x1="260" y1="118" x2="420" y2="118" stroke="#d0d7de" stroke-width="1"/>
+
+  <text x="340" y="146" text-anchor="middle" font-size="13" fill="#6e7781" font-family="Helvetica, Arial, sans-serif">VIT Vellore — Integrated M.Tech, Data Science</text>
+
+  <rect x="255" y="162" width="170" height="28" rx="14" fill="#e1f5ee" stroke="#5dcaa5" stroke-width="1"/>
+  <text x="340" y="180" text-anchor="middle" font-size="13" font-weight="500" fill="#085041" font-family="Helvetica, Arial, sans-serif">Open to internships</text>
+
+</svg>
