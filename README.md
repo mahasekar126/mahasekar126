@@ -1,8 +1,6 @@
 <div align="center">
 
-# Mahalakshmi S
-
-### 🎓 Data Science & ML Student · VIT Vellore
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2D27,100:0F6E56&height=200&section=header&text=Mahalakshmi%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20ML%20Student%20%C2%B7%20VIT%20Vellore&descSize=18&descAlignY=58&descColor=BDF0DB" width="100%"/>
 
 **Turning messy data into clean answers**
 
@@ -97,46 +95,75 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 ## 🛠️ Tech Stack
 
 <table>
-<tr><td><b>Languages</b></td><td>
-<img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</td></tr>
-<tr><td><b>Data Science</b></td><td>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
-</td></tr>
-<tr><td><b>Backend & Tools</b></td><td>
-<img src="https://skillicons.dev/icons?i=flask,git,github&theme=dark"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-</td></tr>
-<tr><td><b>Blockchain & Cloud</b></td><td>
-<img src="https://skillicons.dev/icons?i=solidity&theme=dark"/>
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black"/>
-<img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-</td></tr>
+<tr>
+<td width="160" bgcolor="#0F6E56"><b><font color="white">Languages</font></b></td>
+<td>
+<img height="32" src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark"/>&nbsp;
+<img height="32" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td width="160" bgcolor="#0F6E56"><b><font color="white">Data Science</font></b></td>
+<td>
+<img height="32" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img height="32" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img height="32" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img height="32" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td width="160" bgcolor="#0F6E56"><b><font color="white">Backend & Tools</font></b></td>
+<td>
+<img height="32" src="https://skillicons.dev/icons?i=flask,git,github&theme=dark"/>&nbsp;
+<img height="32" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img height="32" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td width="160" bgcolor="#0F6E56"><b><font color="white">Blockchain & Cloud</font></b></td>
+<td>
+<img height="32" src="https://skillicons.dev/icons?i=solidity&theme=dark"/>&nbsp;
+<img height="32" src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black"/>
+<img height="32" src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+<img height="32" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img height="32" src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+</td>
+</tr>
 </table>
 
 <br/>
 
 ## 🏆 Certifications
 
-| | |
-|---|---|
-| 🟢 **Deloitte Australia** | Data Analytics Job Simulation |
-| 🟢 **J.P. Morgan** | Quantitative Research Virtual Experience |
+<table>
+<tr>
+<td width="50%" valign="top">
+<table width="100%"><tr><td bgcolor="#0F6E56"><b><font color="white">&nbsp;🏅 Deloitte Australia</font></b></td></tr></table>
+Data Analytics Job Simulation
+</td>
+<td width="50%" valign="top">
+<table width="100%"><tr><td bgcolor="#0F6E56"><b><font color="white">&nbsp;🏅 J.P. Morgan</font></b></td></tr></table>
+Quantitative Research Virtual Experience
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🎯 Current Focus
 
-| 📖 Learning Now | 🎯 Goal | 🚀 Next Up |
-|:---:|:---:|:---:|
-| Advanced SQL | Data Science Internship | Power BI · Generative AI |
+<table>
+<tr>
+<td align="center" bgcolor="#0F6E56"><b><font color="white">📖 Learning Now</font></b></td>
+<td align="center" bgcolor="#0F6E56"><b><font color="white">🎯 Goal</font></b></td>
+<td align="center" bgcolor="#0F6E56"><b><font color="white">🚀 Next Up</font></b></td>
+</tr>
+<tr>
+<td align="center">Advanced SQL</td>
+<td align="center">Data Science Internship</td>
+<td align="center">Power BI · Generative AI</td>
+</tr>
+</table>
 
 <br/>
 
@@ -146,6 +173,16 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahasekar126&show_icons=true&theme=transparent&hide_border=true&title_color=0F6E56&icon_color=0F6E56&text_color=586069" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahasekar126&layout=compact&theme=transparent&hide_border=true&title_color=0F6E56&text_color=586069" height="150"/>
+
+</div>
+
+**Languages by repository**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahasekar126&repo=justice-chain-&theme=transparent&hide_border=true&title_color=0F6E56&text_color=586069" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahasekar126&repo=streamnest&theme=transparent&hide_border=true&title_color=0F6E56&text_color=586069" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahasekar126&repo=Global-Superstore-Sales-Intelligence&theme=transparent&hide_border=true&title_color=0F6E56&text_color=586069" height="140"/>
 
 </div>
 
