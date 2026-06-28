@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B2D27,100:0F6E56&amp;height=200&amp;section=header&amp;text=Mahalakshmi%20S&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data%20Science%20%26%20ML%20Student%20%C2%B7%20VIT%20Vellore&amp;descSize=18&amp;descAlignY=58&amp;descColor=BDF0DB" width="100%"/>
-
-**Turning messy data into clean answers**
+<img src="hero.svg" width="100%" alt="Mahalakshmi S — Data Science and Machine Learning">
 
 ![Status](https://img.shields.io/badge/Open%20to-Data%20Science%20Internships-0F6E56?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=mahasekar126&color=0F6E56&style=for-the-badge&label=PROFILE+VIEWS)
@@ -28,9 +26,9 @@ My core tools are **Python, SQL, and Tableau**, with detours into blockchain to 
 ### ⚖️ JusticeChain
 Restricts legal record access by role (police, lawyers, judges, citizens), with every change kept on an immutable, publicly auditable chain.
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-0F6E56?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-555555?style=flat-square&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-0F6E56?style=flat-square&logo=web3.js&logoColor=white)
 
 **[→ View Repository](https://github.com/mahasekar126/justice-chain-)**
 
@@ -40,9 +38,9 @@ Restricts legal record access by role (police, lawyers, judges, citizens), with 
 ### 🎬 StreamNest
 Netflix-style streaming platform with real authentication and cloud-hosted video delivery, not a static mockup.
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-555555?style=flat-square&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0F6E56?style=flat-square&logo=mysql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-555555?style=flat-square&logo=cloudinary&logoColor=white)
 
 **[→ View Repository](https://github.com/mahasekar126/streamnest)**
 
@@ -54,8 +52,8 @@ Netflix-style streaming platform with real authentication and cloud-hosted video
 ### 📊 Global Superstore Sales Intelligence
 Tableau dashboard surfacing where global retail profit is won or lost, by region and category.
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-0F6E56?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-0F6E56?style=flat-square&logo=tableau&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-555555?style=flat-square)
 
 **[→ View Repository](https://github.com/mahasekar126/Global-Superstore-Sales-Intelligence)**
 
@@ -66,7 +64,7 @@ Tableau dashboard surfacing where global retail profit is won or lost, by region
 IoT prototype detecting missing-helmet and accident conditions, pushing automated alerts in real time.
 
 ![IoT](https://img.shields.io/badge/IoT-0F6E56?style=flat-square)
-![Sensors](https://img.shields.io/badge/Sensors-0F6E56?style=flat-square)
+![Sensors](https://img.shields.io/badge/Sensors-555555?style=flat-square)
 
 *Private repository — ask to view*
 
@@ -78,14 +76,13 @@ IoT prototype detecting missing-helmet and accident conditions, pushing automate
 ### ⚡ Intelligent Case Prioritization System
 Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simple first-in-first-out order.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-0F6E56?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0F6E56?style=flat-square&logo=python&logoColor=white)
+![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-555555?style=flat-square)
 
 *Private repository — ask to view*
 
 </td>
 <td width="50%" valign="top">
-
 </td>
 </tr>
 </table>
@@ -94,76 +91,46 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="160" bgcolor="#0F6E56"><b><font color="white">Languages</font></b></td>
-<td>
-<img height="32" src="https://skillicons.dev/icons?i=python,java,cpp&amp;theme=dark"/>&nbsp;
-<img height="32" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td width="160" bgcolor="#0F6E56"><b><font color="white">Data Science</font></b></td>
-<td>
-<img height="32" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/>
-<img height="32" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"/>
-<img height="32" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white"/>
-<img height="32" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&amp;logo=plotly&amp;logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td width="160" bgcolor="#0F6E56"><b><font color="white">Backend & Tools</font></b></td>
-<td>
-<img height="32" src="https://skillicons.dev/icons?i=flask,git,github&amp;theme=dark"/>&nbsp;
-<img height="32" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
-<img height="32" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&amp;logo=tableau&amp;logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td width="160" bgcolor="#0F6E56"><b><font color="white">Blockchain & Cloud</font></b></td>
-<td>
-<img height="32" src="https://skillicons.dev/icons?i=solidity&amp;theme=dark"/>&nbsp;
-<img height="32" src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&amp;logo=ethereum&amp;logoColor=black"/>
-<img height="32" src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&amp;logo=web3.js&amp;logoColor=white"/>
-<img height="32" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&amp;logo=render&amp;logoColor=white"/>
-<img height="32" src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&amp;logo=cloudinary&amp;logoColor=white"/>
-</td>
-</tr>
-</table>
+**Languages**
+![Python](https://img.shields.io/badge/Python-0F6E56?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-555555?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0F6E56?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-555555?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Data Science**
+![Pandas](https://img.shields.io/badge/Pandas-0F6E56?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-555555?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F6E56?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-555555?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Backend & Tools**
+![Flask](https://img.shields.io/badge/Flask-0F6E56?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-555555?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0F6E56?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-0F6E56?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Blockchain & Cloud**
+![Solidity](https://img.shields.io/badge/Solidity-555555?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-0F6E56?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-555555?style=for-the-badge&logo=web3.js&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0F6E56?style=for-the-badge&logo=render&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-555555?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 <br/>
 
 ## 🏆 Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<table width="100%"><tr><td bgcolor="#0F6E56"><b><font color="white">&nbsp;🏅 Deloitte Australia</font></b></td></tr></table>
-Data Analytics Job Simulation
-</td>
-<td width="50%" valign="top">
-<table width="100%"><tr><td bgcolor="#0F6E56"><b><font color="white">&nbsp;🏅 J.P. Morgan</font></b></td></tr></table>
-Quantitative Research Virtual Experience
-</td>
-</tr>
-</table>
+![Deloitte](https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-0F6E56?style=for-the-badge)
+![JPMorgan](https://img.shields.io/badge/J.P.%20Morgan-Quantitative%20Research%20Virtual%20Experience-555555?style=for-the-badge)
 
 <br/>
 
 ## 🎯 Current Focus
 
-<table>
-<tr>
-<td align="center" bgcolor="#0F6E56"><b><font color="white">📖 Learning Now</font></b></td>
-<td align="center" bgcolor="#0F6E56"><b><font color="white">🎯 Goal</font></b></td>
-<td align="center" bgcolor="#0F6E56"><b><font color="white">🚀 Next Up</font></b></td>
-</tr>
-<tr>
-<td align="center">Advanced SQL</td>
-<td align="center">Data Science Internship</td>
-<td align="center">Power BI · Generative AI</td>
-</tr>
-</table>
+![Learning](https://img.shields.io/badge/Learning%20Now-Advanced%20SQL-0F6E56?style=for-the-badge)
+![Goal](https://img.shields.io/badge/Goal-Data%20Science%20Internship-555555?style=for-the-badge)
+![Next](https://img.shields.io/badge/Next-Power%20BI%20%C2%B7%20Generative%20AI-0F6E56?style=for-the-badge)
 
 <br/>
 
@@ -173,16 +140,6 @@ Quantitative Research Virtual Experience
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahasekar126&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=0F6E56&amp;icon_color=0F6E56&amp;text_color=586069" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahasekar126&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=0F6E56&amp;text_color=586069" height="150"/>
-
-</div>
-
-**Languages by repository**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahasekar126&amp;repo=justice-chain-&amp;theme=transparent&amp;hide_border=true&amp;title_color=0F6E56&amp;text_color=586069" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahasekar126&amp;repo=streamnest&amp;theme=transparent&amp;hide_border=true&amp;title_color=0F6E56&amp;text_color=586069" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahasekar126&amp;repo=Global-Superstore-Sales-Intelligence&amp;theme=transparent&amp;hide_border=true&amp;title_color=0F6E56&amp;text_color=586069" height="140"/>
 
 </div>
 
