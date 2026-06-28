@@ -7,22 +7,25 @@
 
 ## About Me
 
-I'm a Data Science student who'd rather ship something real than finish another tutorial — JusticeChain runs on actual smart contracts, StreamNest handles real video uploads, not mock data. I work mainly in Python and SQL, with Tableau for the storytelling layer most technical people skip.
+I'm Mahalakshmi — a Data Science student at VIT Vellore who learns best by building, not by following along. Give me a dataset or a problem and I'll usually end up with a working prototype before I'm done overthinking it.
 
-Right now I'm deepening SQL and applied ML, with Power BI and Generative AI next. Looking for a Data Science internship where I can do the same thing: build things that work, not just things that demo well.
+My core tools are Python, SQL, and Tableau, with some detours into blockchain just to understand how systems outside the usual data stack are built. Right now I'm sharpening SQL and applied ML, with Power BI and Generative AI next on the list — and I'm looking for a Data Science internship where curiosity like this is actually useful.
 
 <br/>
 
-## Projects
+## 🚀 Projects
 
 <table>
 <tr>
+<td width="6" bgcolor="#0F6E56"></td>
 <td width="100%">
 
-#### JusticeChain
+#### ⚖️ JusticeChain
 Restricts legal record access by role — police, lawyers, judges, citizens — with every change kept on an immutable, publicly auditable chain.
 
-`Solidity` &nbsp;`Hardhat`&nbsp; `Web3`
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
 [**View Repository →**](https://github.com/mahasekar126/justice-chain-)
 
@@ -32,12 +35,15 @@ Restricts legal record access by role — police, lawyers, judges, citizens — 
 
 <table>
 <tr>
+<td width="6" bgcolor="#0F6E56"></td>
 <td width="100%">
 
-#### StreamNest
+#### 🎬 StreamNest
 Netflix-style streaming platform with real authentication and cloud-hosted video delivery — not a static front-end mockup.
 
-`Flask` &nbsp;`SQL`&nbsp; `Cloudinary`
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 [**View Repository →**](https://github.com/mahasekar126/streamnest)
 
@@ -47,12 +53,14 @@ Netflix-style streaming platform with real authentication and cloud-hosted video
 
 <table>
 <tr>
+<td width="6" bgcolor="#0F6E56"></td>
 <td width="100%">
 
-#### Global Superstore Sales Intelligence
+#### 📊 Global Superstore Sales Intelligence
 Tableau dashboard surfacing where global retail profit is won or lost, by region and category.
 
-`Tableau` &nbsp;`EDA`
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-555555?style=flat-square)
 
 [**View Repository →**](https://github.com/mahasekar126/Global-Superstore-Sales-Intelligence)
 
@@ -62,12 +70,14 @@ Tableau dashboard surfacing where global retail profit is won or lost, by region
 
 <table>
 <tr>
+<td width="6" bgcolor="#0F6E56"></td>
 <td width="100%">
 
-#### Smart Bike Safety & Alert System
+#### 🚲 Smart Bike Safety & Alert System
 IoT prototype detecting missing-helmet and accident conditions, pushing automated alerts in real time.
 
-`IoT` &nbsp;`Sensors`
+![IoT](https://img.shields.io/badge/IoT-555555?style=flat-square)
+![Sensors](https://img.shields.io/badge/Sensors-555555?style=flat-square)
 
 *Private repository — ask to view*
 
@@ -77,12 +87,14 @@ IoT prototype detecting missing-helmet and accident conditions, pushing automate
 
 <table>
 <tr>
+<td width="6" bgcolor="#0F6E56"></td>
 <td width="100%">
 
-#### Intelligent Case Prioritization System
+#### ⚡ Intelligent Case Prioritization System
 Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simple first-in-first-out order.
 
-`Python` &nbsp;`Fuzzy Logic`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-555555?style=flat-square)
 
 *Private repository — ask to view*
 
@@ -92,32 +104,50 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 
 <br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <table>
 <tr>
+<td width="6" bgcolor="#0F6E56"></td>
 <td valign="top">
 
 **Languages**
-<sub>Python · SQL · Java · C · C++</sub>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Data Science**
-<sub>Pandas · NumPy · Scikit-learn · Matplotlib · EDA · Feature Engineering</sub>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
 **Backend**
-<sub>Flask · MySQL</sub>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
+</tr>
+<tr>
+<td width="6" bgcolor="#0F6E56"></td>
 <td valign="top">
 
 **Tools**
-<sub>Git · GitHub · Tableau · Excel · Jupyter</sub>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **Blockchain**
-<sub>Solidity · Hardhat · Web3 · MetaMask · Sepolia</sub>
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
 
 **Cloud**
-<sub>Render · Cloudinary</sub>
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 </td>
 </tr>
@@ -125,19 +155,21 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 
 <br/>
 
-## Certifications
+## 🏆 Certifications
 
 <table>
 <tr>
+<td width="6" bgcolor="#0F6E56"></td>
 <td width="50%" valign="top">
 
-🏆 **Deloitte Australia**
+**Deloitte Australia**
 <sub>Data Analytics Job Simulation</sub>
 
 </td>
+<td width="6" bgcolor="#0F6E56"></td>
 <td width="50%" valign="top">
 
-🏆 **J.P. Morgan**
+**J.P. Morgan**
 <sub>Quantitative Research Virtual Experience</sub>
 
 </td>
@@ -146,7 +178,7 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 
 <br/>
 
-## Current Focus
+## 🎯 Current Focus
 
 <table>
 <tr>
@@ -176,7 +208,7 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 
 <br/>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
