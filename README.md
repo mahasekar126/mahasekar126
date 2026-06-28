@@ -3,7 +3,6 @@
 <img src="hero.svg" width="100%" alt="Mahalakshmi S — Data Science and Machine Learning">
 
 ![Status](https://img.shields.io/badge/Open%20to-Data%20Science%20Internships-0F6E56?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=mahasekar126&color=0F6E56&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
