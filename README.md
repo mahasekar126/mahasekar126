@@ -15,9 +15,10 @@ My core tools are Python, SQL, and Tableau, with some detours into blockchain ju
 
 ## 🚀 Projects
 
+<img src="accent-bar.svg" width="100%" height="4"/>
+
 <table>
 <tr>
-<td width="6" bgcolor="#0F6E56"></td>
 <td width="100%">
 
 #### ⚖️ JusticeChain
@@ -33,9 +34,10 @@ Restricts legal record access by role — police, lawyers, judges, citizens — 
 </tr>
 </table>
 
+<img src="accent-bar.svg" width="100%" height="4"/>
+
 <table>
 <tr>
-<td width="6" bgcolor="#0F6E56"></td>
 <td width="100%">
 
 #### 🎬 StreamNest
@@ -51,9 +53,10 @@ Netflix-style streaming platform with real authentication and cloud-hosted video
 </tr>
 </table>
 
+<img src="accent-bar.svg" width="100%" height="4"/>
+
 <table>
 <tr>
-<td width="6" bgcolor="#0F6E56"></td>
 <td width="100%">
 
 #### 📊 Global Superstore Sales Intelligence
@@ -68,9 +71,10 @@ Tableau dashboard surfacing where global retail profit is won or lost, by region
 </tr>
 </table>
 
+<img src="accent-bar.svg" width="100%" height="4"/>
+
 <table>
 <tr>
-<td width="6" bgcolor="#0F6E56"></td>
 <td width="100%">
 
 #### 🚲 Smart Bike Safety & Alert System
@@ -85,9 +89,10 @@ IoT prototype detecting missing-helmet and accident conditions, pushing automate
 </tr>
 </table>
 
+<img src="accent-bar.svg" width="100%" height="4"/>
+
 <table>
 <tr>
-<td width="6" bgcolor="#0F6E56"></td>
 <td width="100%">
 
 #### ⚡ Intelligent Case Prioritization System
@@ -106,9 +111,10 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 
 ## 🛠️ Tech Stack
 
+<img src="accent-bar.svg" width="100%" height="4"/>
+
 <table>
 <tr>
-<td width="6" bgcolor="#0F6E56"></td>
 <td valign="top">
 
 **Languages**
@@ -130,7 +136,6 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 </td>
 </tr>
 <tr>
-<td width="6" bgcolor="#0F6E56"></td>
 <td valign="top">
 
 **Tools**
@@ -157,16 +162,16 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 
 ## 🏆 Certifications
 
+<img src="accent-bar.svg" width="100%" height="4"/>
+
 <table>
 <tr>
-<td width="6" bgcolor="#0F6E56"></td>
 <td width="50%" valign="top">
 
 **Deloitte Australia**
 <sub>Data Analytics Job Simulation</sub>
 
 </td>
-<td width="6" bgcolor="#0F6E56"></td>
 <td width="50%" valign="top">
 
 **J.P. Morgan**
@@ -179,6 +184,8 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 <br/>
 
 ## 🎯 Current Focus
+
+<img src="accent-bar.svg" width="100%" height="4"/>
 
 <table>
 <tr>
