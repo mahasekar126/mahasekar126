@@ -5,73 +5,192 @@
 
 <br/>
 
-I build end-to-end data and software systems — from a Tableau sales dashboard to a blockchain-based legal records platform — rather than isolated tutorial exercises.
+## About Me
+
+I'm a Data Science student who'd rather ship something real than finish another tutorial — JusticeChain runs on actual smart contracts, StreamNest handles real video uploads, not mock data. I work mainly in Python and SQL, with Tableau for the storytelling layer most technical people skip.
+
+Right now I'm deepening SQL and applied ML, with Power BI and Generative AI next. Looking for a Data Science internship where I can do the same thing: build things that work, not just things that demo well.
 
 <br/>
 
 ## Projects
 
-<br/>
+<table>
+<tr>
+<td width="100%">
 
-**JusticeChain**
+#### JusticeChain
 Restricts legal record access by role — police, lawyers, judges, citizens — with every change kept on an immutable, publicly auditable chain.
-`Solidity` `Hardhat` `Web3` → [View repository](https://github.com/mahasekar126/justice-chain-)
 
-<br/>
+`Solidity` &nbsp;`Hardhat`&nbsp; `Web3`
 
-**StreamNest**
+[**View Repository →**](https://github.com/mahasekar126/justice-chain-)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+#### StreamNest
 Netflix-style streaming platform with real authentication and cloud-hosted video delivery — not a static front-end mockup.
-`Flask` `SQL` `Cloudinary` → [View repository](https://github.com/mahasekar126/streamnest)
 
-<br/>
+`Flask` &nbsp;`SQL`&nbsp; `Cloudinary`
 
-**Global Superstore Sales Intelligence**
+[**View Repository →**](https://github.com/mahasekar126/streamnest)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+#### Global Superstore Sales Intelligence
 Tableau dashboard surfacing where global retail profit is won or lost, by region and category.
-`Tableau` `EDA` → [View repository](https://github.com/mahasekar126/Global-Superstore-Sales-Intelligence)
 
-<br/>
+`Tableau` &nbsp;`EDA`
 
-**Smart Bike Safety & Alert System**
+[**View Repository →**](https://github.com/mahasekar126/Global-Superstore-Sales-Intelligence)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+#### Smart Bike Safety & Alert System
 IoT prototype detecting missing-helmet and accident conditions, pushing automated alerts in real time.
-`IoT` `Sensors` → *Private, ask to view*
 
-<br/>
+`IoT` &nbsp;`Sensors`
 
-**Intelligent Case Prioritization System**
+*Private repository — ask to view*
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+#### Intelligent Case Prioritization System
 Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simple first-in-first-out order.
-`Python` `Fuzzy Logic` → *Private, ask to view*
+
+`Python` &nbsp;`Fuzzy Logic`
+
+*Private repository — ask to view*
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Skills-0F6E56?style=flat-square" alt="Skills"/>
+## Tech Stack
 
-**Languages** Python · SQL · Java · C · C++
-**Data Science** Pandas · NumPy · Scikit-learn · Matplotlib · EDA · Feature Engineering
-**Backend** Flask · MySQL
-**Tools** Git · GitHub · Tableau · Excel · Jupyter
-**Blockchain** Solidity · Hardhat · Web3 · MetaMask · Sepolia
-**Cloud** Render · Cloudinary
+<table>
+<tr>
+<td valign="top">
+
+**Languages**
+<sub>Python · SQL · Java · C · C++</sub>
+
+**Data Science**
+<sub>Pandas · NumPy · Scikit-learn · Matplotlib · EDA · Feature Engineering</sub>
+
+**Backend**
+<sub>Flask · MySQL</sub>
+
+</td>
+<td valign="top">
+
+**Tools**
+<sub>Git · GitHub · Tableau · Excel · Jupyter</sub>
+
+**Blockchain**
+<sub>Solidity · Hardhat · Web3 · MetaMask · Sepolia</sub>
+
+**Cloud**
+<sub>Render · Cloudinary</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Certifications-0F6E56?style=flat-square" alt="Certifications"/>
+## Certifications
 
-Deloitte Australia — Data Analytics Job Simulation · J.P. Morgan — Quantitative Research Virtual Experience
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🏆 **Deloitte Australia**
+<sub>Data Analytics Job Simulation</sub>
+
+</td>
+<td width="50%" valign="top">
+
+🏆 **J.P. Morgan**
+<sub>Quantitative Research Virtual Experience</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Current_Focus-0F6E56?style=flat-square" alt="Current Focus"/>
+## Current Focus
 
-Learning now: **Advanced SQL** &nbsp;→&nbsp; Next: Power BI · Generative AI · Prompt Engineering · RAG
+<table>
+<tr>
+<td align="center" width="33%">
+
+📖 **Learning**
+<br/>
+<sub>Advanced SQL</sub>
+
+</td>
+<td align="center" width="33%">
+
+🎯 **Goal**
+<br/>
+<sub>Data Science Internship</sub>
+
+</td>
+<td align="center" width="33%">
+
+🚀 **Next**
+<br/>
+<sub>Power BI · Gen AI</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
-<br/>
+
+## GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahasekar126&show_icons=true&theme=transparent&hide_border=true&title_color=0F6E56&icon_color=0F6E56&text_color=586069" height="150"/>
 
+</div>
+
 <br/>
+
+---
+
+<div align="center">
+
+**Let's connect**
 
 [Email](mailto:mahasekar126@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mahalakshmi-s-75665728b/) &nbsp;·&nbsp; [GitHub](https://github.com/mahasekar126)
 
