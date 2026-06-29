@@ -90,6 +90,8 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 ![Python](https://img.shields.io/badge/Python-0F6E56?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-555555?style=for-the-badge&logo=mysql&logoColor=white)
@@ -110,26 +112,31 @@ Fuzzy-logic engine ranking legal cases by urgency and complexity instead of simp
 ![Tableau](https://img.shields.io/badge/Tableau-0F6E56?style=for-the-badge&logo=tableau&logoColor=white)
 
 **Blockchain & Cloud**
-![Solidity](https://img.shields.io/badge/Solidity-555555?style=for-the-badge&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-0F6E56?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-555555?style=for-the-badge&logo=web3.js&logoColor=white)
-![Render](https://img.shields.io/badge/Render-0F6E56?style=for-the-badge&logo=render&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-555555?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-0F6E56?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-555555?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-0F6E56?style=for-the-badge&logo=web3.js&logoColor=white)
+![Render](https://img.shields.io/badge/Render-555555?style=for-the-badge&logo=render&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0F6E56?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+</div>
 
 <br/>
 
 ## 🏆 Certifications
 
-![Deloitte](https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-0F6E56?style=for-the-badge)
-![JPMorgan](https://img.shields.io/badge/J.P.%20Morgan-Quantitative%20Research%20Virtual%20Experience-555555?style=for-the-badge)
+> 🟢 **Deloitte Australia** — Data Analytics Job Simulation
+>
+> 🟢 **J.P. Morgan** — Quantitative Research Virtual Experience
 
 <br/>
 
 ## 🎯 Current Focus
 
-![Learning](https://img.shields.io/badge/Learning%20Now-Advanced%20SQL-0F6E56?style=for-the-badge)
-![Goal](https://img.shields.io/badge/Goal-Data%20Science%20Internship-555555?style=for-the-badge)
-![Next](https://img.shields.io/badge/Next-Power%20BI%20%C2%B7%20Generative%20AI-0F6E56?style=for-the-badge)
+> 📖 **Learning Now:** Advanced SQL
+>
+> 🎯 **Goal:** Data Science Internship
+>
+> 🚀 **Next Up:** Power BI · Generative AI
 
 <br/>
 
